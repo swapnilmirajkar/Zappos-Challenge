@@ -20,7 +20,7 @@ import org.json.JSONObject;
 public class getpic {
 	
 	// static declarations for the api base calls
-	static final String ZAPPOS_API_KEY = "52ddafbe3ee659bad97fcce7c53592916a6bfd73";
+	static final String ZAPPOS_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 	static final String ZAPPOS_API_PRODUCT = "http://api.zappos.com/Product/";
 	static final String ZAPPOS_API_KEY_ID = "?key=";
 	static final String ZAPPOS_API_SEPARATOR = "&&";
